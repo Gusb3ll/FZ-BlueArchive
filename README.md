@@ -2,6 +2,8 @@
 
 Blue Archive graphics for Flipper Zero
 
+![1](https://github.com/Gusb3ll/FZ-BlueArchive/assets/77166960/967e158b-c4d5-42cb-abc2-14f6d2bc4054)
+
 ## Usage
 
 - Clone this repository
