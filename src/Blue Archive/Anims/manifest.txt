@@ -21,3 +21,17 @@ Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 3
+
+Name: X_Koharu_1
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: X_Mika_1
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
